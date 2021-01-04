@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "primeirospassostypescript",
   "version": "1.0.0",
   "description": "UeideSantos_TypeScriptTests",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ueidesantos/TypeScript/issues"
   },
-  "homepage": "https://github.com/ueidesantos/TypeScript#readme"
+  "homepage": "https://github.com/ueidesantos/TypeScript#readme",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
 }
